@@ -1,5 +1,5 @@
 ###  Ola! Eu sou Girleide Guedes 👋
-🌱 Atualmente estou participando do Programa One #Oracle #Alura
+🌱 Atualmente estou Cursando Análise e Desenvolvimento de Sistemas na Faculdade das Américas – FAM
 
    Apaixonada por tecnologia, Estudante de programação
    
