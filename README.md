@@ -1,6 +1,10 @@
+div align="center">
+
 # Hi! 👋 I'm Girleide Guedes
 
-**Technology | Credit Engines | Front-End**
+**Credit Engines | Technology | Front-End**
+
+São Paulo, Brazil
 
 </div>
 
@@ -8,42 +12,56 @@
 
 ### About me
 
-I'm an Information Systems Development student at FAM and currently working as an intern in **Credit Engines** in the financial sector.
+Information Systems Development student at FAM and Credit Engines Intern in the financial sector.
 
-My professional experience includes business rules configuration, functional and technical requirements, and credit solutions implementation.
-
-### Experience
-
-**Credit Engines Intern | Financial Sector**
-
-- Business rules configuration.
-- Functional and technical requirements.
-- Functional and technical specifications.
-- Testing and solution validation.
+Working with business rules, functional and technical requirements, and credit solutions implementation.
 
 ### Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- Python (Basic)
-- Git & GitHub
+<div align="center">
 
-### Education
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" />
 
-**Systems Analysis and Development**  
-FAM — Faculdade das Américas  
-Expected graduation: July 2027.
-*
+</div>
 
-### Contact
+### GitHub Dashboard
 
-[LinkedIn](https://www.linkedin.com/in/girleideguedesdev/) · [GitHub](https://github.com/gihguedes)
+<div align="center">
+
+<img src="https://img.shields.io/github/followers/gihguedes?style=for-the-badge&label=FOLLOWERS&color=6D28D9&labelColor=0D0A12" />
+
+<img src="https://img.shields.io/github/stars/gihguedes?style=for-the-badge&label=STARS&color=8B5CF6&labelColor=0D0A12" />
+
+</div>
+
+### Activity
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=gihguedes&background=0D0A12&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=DDD6FE&dates=9CA3AF&sideNums=DDD6FE&currStreakNum=FFFFFF&hide_border=true" />
+
+</div>
+
+### Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/gihguedes/Jogo-do-n-mero-secreto">
+  <img src="https://img.shields.io/badge/01-Secret_Number_Game-190D26?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
+
+<a href="https://github.com/gihguedes/Decodificador-de-Texto">
+  <img src="https://img.shields.io/badge/02-Text_Decoder-190D26?style=for-the-badge&logo=github&logoColor=A78BFA" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Technology, learning and continuous growth.*
+[LinkedIn](https://www.linkedin.com/in/girleideguedesdev/) · [GitHub](https://github.com/gihguedes)
+
+*Learning, building and evolving.*
 
 </div>
