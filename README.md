@@ -1,4 +1,4 @@
-div align="center">
+
 
 # Hi! 👋 I'm Girleide Guedes
 
@@ -15,6 +15,15 @@ São Paulo, Brazil
 Information Systems Development student at FAM and Credit Engines Intern in the financial sector.
 
 Working with business rules, functional and technical requirements, and credit solutions implementation.
+
+### Experience
+
+**Credit Engines Intern | Financial Sector**
+
+- Business rules configuration.
+- Functional and technical requirements.
+- Functional and technical specifications.
+- Testing and solution validation.
 
 ### Technologies
 
